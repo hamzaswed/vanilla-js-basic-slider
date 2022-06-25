@@ -7,12 +7,12 @@ const counter = document.getElementById('counter');
 const sliderPagination = document.querySelector('.slider-pagination');
 const styleTag = document.createElement('style') ;
 
-// set helper variables and adding it to the window
-const slidCounter = sliderImgs.length;
-let currentSlide = 1;
+// add created style element to the html document
 document.head.appendChild(styleTag);
 
-
+// set helper variables
+const slidCounter = sliderImgs.length;
+let currentSlide = 1;
 
 /**
  * pagination loop
