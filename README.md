@@ -7,3 +7,5 @@ In this project i do a basic slider with [html, css, javascript]
 
 ![image](https://user-images.githubusercontent.com/81015655/175759928-ae2fa94b-5ee9-4475-b3d4-8cde4d94c053.png)
 
+![image](https://user-images.githubusercontent.com/81015655/175760378-8df74507-fa51-4da1-b77f-60188abdaaff.png)
+
