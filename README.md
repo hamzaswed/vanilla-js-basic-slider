@@ -1,7 +1,7 @@
 # js-slider
 slider project (javascript)
 
-In this project i do a basic slider with [html, css, javascript]
+In this project i did a basic slider with [html, css, javascript]
 
 You can take a look at slider-js project from here (https://hamzaswed.github.io/js-slider/)
 
